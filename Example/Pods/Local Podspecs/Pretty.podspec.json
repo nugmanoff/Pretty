@@ -1,0 +1,30 @@
+{
+  "name": "Pretty",
+  "version": "0.1.0",
+  "summary": "Collection of pretty to use switch controls.",
+  "description": "Collection of pretty to use switch controls.\nInspired by several dribble shots.",
+  "homepage": "https://github.com/nugmanoff/Pretty",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "a.nugmanoff@gmail.com": "a.nugmanoff@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/nugmanoff/Pretty.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_version": "4.0",
+  "source_files": "Pretty/Classes/**/*",
+  "requires_arc": true,
+  "ios": {
+    "frameworks": [
+      "UIKit",
+      "Foundation"
+    ]
+  }
+}

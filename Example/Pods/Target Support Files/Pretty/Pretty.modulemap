@@ -1,0 +1,6 @@
+framework module Pretty {
+  umbrella header "Pretty-umbrella.h"
+
+  export *
+  module * { export * }
+}

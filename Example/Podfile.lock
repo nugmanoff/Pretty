@@ -1,0 +1,16 @@
+PODS:
+  - Pretty (0.1.0)
+
+DEPENDENCIES:
+  - Pretty (from `../`)
+
+EXTERNAL SOURCES:
+  Pretty:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Pretty: aeb881a128ba29d50cd697c913909c1095ae613a
+
+PODFILE CHECKSUM: 1fc83527a1ce694e646e69be231c0f63ca49fca3
+
+COCOAPODS: 1.5.2

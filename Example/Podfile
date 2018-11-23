@@ -1,0 +1,10 @@
+use_frameworks!
+
+target 'Pretty_Example' do
+  pod 'Pretty', :path => '../'
+
+  target 'Pretty_Tests' do
+    inherit! :search_paths
+
+  end
+end
